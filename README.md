@@ -1,6 +1,6 @@
 # projetofinalFront1
 
-Link: https://vanessagomesdeoliveira.github.io/projetofinalFront1/
+Link: https://bbmiranda.github.io/DH-FrontEnd-CheckpointIFinal/
 
 Projeto Final de FrontEnd - 1º Bimestre Certified Tech Developer - Digital House
 Professores: Rafael Simas e Thiago Damasceno
