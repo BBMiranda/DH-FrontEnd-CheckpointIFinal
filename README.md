@@ -16,9 +16,9 @@ https://bbmiranda.github.io/DH-FrontEnd-CheckpointIFinal/
 Tabela de conteúdos
 =================
 <!--ts-->
-  * [🖥️ Sobre o projeto](#sobre-o-projeto)
-  * [⚙️ Funcionalidades](#funcionalidades)
-  * [🎨 Layout](#layout)
+  * 🖥️ Sobre o projeto
+  * ⚙️ Funcionalidades
+  * 🎨 Layout
     + [Home](#home)
     + [Destaques](#destaques)
     + [Notícias](#notícias)
@@ -27,9 +27,9 @@ Tabela de conteúdos
     + [Cadastrar](#cadastrar)
     + [Login](#login)
     
-  * [🚀 Como executar o projeto](#como-executar-o-projeto)
+  * 🚀 Como executar o projeto
     + [Pre-requisitos](#pre-requisitos)
-      - [🧭 Rodando a aplicacao web (Frontend)](#rodando-a-aplicacao-web--frontend-)
+      - 🧭 Rodando a aplicacao web (Frontend)
 <!--te-->
 
 
