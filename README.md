@@ -34,6 +34,7 @@ Tabela de conteúdos
 
 
 ## 🖥️ Sobre o projeto
+![Sobre o Projeto]
 
 O objetivo deste site é servir como uma interface para um suposto serviço de jogos, noticías, avaliações, destaques do universo Geek pra se manter antenado em quais jogos comprar e quais fazem mais o seu estilo como jogador.
 Neste projeto o time aplicou os conhecimentos adquiridos na matéria ao longo do bimestre, como: transições e animações em css e as tags de HTML.
